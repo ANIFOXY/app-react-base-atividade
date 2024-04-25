@@ -1,0 +1,29 @@
+/* Albums.css */
+
+/* Estilos para a seção de cartões de álbuns */
+.album-card {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para o título do álbum */
+  .album-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  /* Estilos para o texto do artista */
+  .album-artist {
+    font-size: 16px;
+    color: #888;
+  }
+  
+  /* Estilos para o texto da descrição */
+  .album-description {
+    font-size: 14px;
+  }
+  
+  /* Estilos para o botão "Ver Álbum" */
+  .album-button {
+    margin-top: 10px;
+  }
+  
